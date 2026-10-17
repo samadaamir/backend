@@ -1,1 +1,1 @@
-//Backend wo part hota h jo user ko nazar nhi ata 
+//Backend wo part hota h jo user ko nazar nhi ata.Ye developer code krta h backend likhta h 
