@@ -1,1 +1,1 @@
-//Backend wo part hota h jo user ko nazar nhi ata.Ye developer code krta h backend likhta h or frontend developer wo code likhta h jis ka output user ko sceen pr show hota hota h or backend hi poore system ki backbone hoti h 
+//Backend wo part hota h jo user ko nazar nhi ata.Ye developer code krta h backend likhta h or frontend developer wo code likhta h jis ka output user ko sceen pr show hota hota h. 
